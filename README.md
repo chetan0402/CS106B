@@ -22,3 +22,13 @@
 ### Misc
 
 - Use `? functionName(datatype& variable)` to edit the memory space directly inside a function
+
+## Other stuff
+
+### Course link
+
+https://www.youtube.com/playlist?list=PLoCMsyE1cvdWiqgyzwAz_uGLSHsuYZlMX
+
+### [delFiles.bat](/delFiles.bat)
+
+- Used to delete all the files created by `cl.exe` while building and running scripts
