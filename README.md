@@ -9,11 +9,11 @@
 
 ## Lecture 2
 
-### lec2quad.cpp
+### [lec2quad.cpp](/lec2quad.cpp)
 
 - Use `array<datatype,quantity>` to return array data, use this by including `<array>` header
 
-### lec2stringexercise.cpp
+### [lec2stringexercise.cpp](/lec2stringexercise.cpp)
 
 - C++ has mutuable strings
 - `#include<string>`
