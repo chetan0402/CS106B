@@ -23,6 +23,19 @@
 
 - Use `? functionName(datatype& variable)` to edit the memory space directly inside a function
 
+## Lecture 3
+
+### [lec3readfile.cpp](/lec3readfile.cpp)
+- `getline(stream,variable)` returns true if it is able to read
+
+### [lec3gridexercise.cpp](/lec3gridexercise.cpp)
+- Be careful about types while using `==`
+
+### Misc
+- `ifstream.fail()` return true if the last operation done by the ifstream object has failed
+- `ifstream >> variable` sets value of variable as "words" from the ifstream object(ignores whitespace), return true if successful
+- `vector<datatype>` from `#include<vector>` is a dynamically-resizing array
+
 ## Other stuff
 
 ### Course link
